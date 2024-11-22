@@ -52,17 +52,15 @@ result = crew.kickoff()
 ```
 
 ## Results  - Prompts as above
-```text
-Bitcoin Rapper Agent:  Your smart contracts are neat, but you can't compete, 'Cause when it comes to holding value, Bitcoin can't be beat!
-Ethereum Rapper Agent: Ethereum is the future, your value might be sweet, but we shape world's feature with our smart contracts fleet!
-Bitcoin Rapper Agent:  Bitcoin's the past, present, and future, mate, we powered the crypto state, while you're still updating at a slower rate!
-Ethereum Rapper Agent: Ethereum's the path to innovation’s gate, programmable money mate, while you're stuck in a homogenous state!
-```
+
+- Bitcoin Rapper Agent:  Your smart contracts are neat, but you can't compete, 'Cause when it comes to holding value, Bitcoin can't be beat!
+- Ethereum Rapper Agent: Ethereum is the future, your value might be sweet, but we shape world's feature with our smart contracts fleet!
+- Bitcoin Rapper Agent:  Bitcoin's the past, present, and future, mate, we powered the crypto state, while you're still updating at a slower rate!
+- Ethereum Rapper Agent: Ethereum's the path to innovation’s gate, programmable money mate, while you're stuck in a homogenous state!
 
 ## Results  - Eminem-Style
-```text
-Bitcoin Rapper Agent:  BTC be the universal donor, market conqueror, no cap wearer; ETH just in the mirror, trying to be the look-alike bearer.
-Ethereum Rapper Agent: ETH ain't no mirror reflection, it's the smart contract king, with DeFi perfection, while BTC stuck in transaction congestion.
-Bitcoin Rapper Agent:  BTC, the gold reflection, world's decentralized election, while ETH just a second section, in this crypto collection!
-Ethereum Rapper Agent: BTC, you're old passion, while ETH brings the future in action, with smart contracts and infinite transactions, we lead the blockchain evolution!
-```
+
+- Bitcoin Rapper Agent:  BTC be the universal donor, market conqueror, no cap wearer; ETH just in the mirror, trying to be the look-alike bearer.
+- Ethereum Rapper Agent: ETH ain't no mirror reflection, it's the smart contract king, with DeFi perfection, while BTC stuck in transaction congestion.
+- Bitcoin Rapper Agent:  BTC, the gold reflection, world's decentralized election, while ETH just a second section, in this crypto collection!
+- Ethereum Rapper Agent: BTC, you're old passion, while ETH brings the future in action, with smart contracts and infinite transactions, we lead the blockchain evolution!
