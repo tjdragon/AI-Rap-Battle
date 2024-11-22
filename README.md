@@ -66,12 +66,3 @@ Ethereum Rapper Agent: ETH ain't no mirror reflection, it's the smart contract k
 Bitcoin Rapper Agent:  BTC, the gold reflection, world's decentralized election, while ETH just a second section, in this crypto collection!
 Ethereum Rapper Agent: BTC, you're old passion, while ETH brings the future in action, with smart contracts and infinite transactions, we lead the blockchain evolution!
 ```
-
-## Results  - Eminem-Style
-```text
-Bitcoin Rapper Agent:  BTC be the universal donor, market conqueror, no cap wearer; ETH just in the mirror, trying to be the look-alike bearer.
-Ethereum Rapper Agent: ETH ain't no mirror reflection, it's the smart contract king, with DeFi perfection, while BTC stuck in transaction congestion.
-Bitcoin Rapper Agent:  BTC, the gold reflection, world's decentralized election, while ETH just a second section, in this crypto collection!
-Ethereum Rapper Agent: BTC, you're old passion, while ETH brings the future in action, with smart contracts and infinite transactions, we lead the blockchain evolution!
-```
-
